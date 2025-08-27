@@ -2,8 +2,7 @@
 
 ## 📌 Project Overview
 This project explores **image denoising** using deep learning.  
-We compare three architectures on the **[Natural Images with Synthetic Noise](/kaggle/input/natural-images-with-synthetic-noise)** dataset:  
-
+We compare three architectures on the **/kaggle/input/natural-images-with-synthetic-noise**
 - **Autoencoder (AE)** → Baseline CNN encoder–decoder  
 - **UNet** → Encoder-decoder with skip connections  
 - **Pix2Pix GAN (cGAN)** → Adversarial learning for sharper outputs  
